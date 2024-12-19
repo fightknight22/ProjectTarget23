@@ -22,7 +22,7 @@ body {
 
 /* Header */
 header {
-    background: linear-gradient(135deg, #4e54c8, #8f94fb);
+    background: linear-gradient(135deg, #5a188e, #7b4397); /* Aston purple gradient */
     color: #fff;
     text-align: center;
     padding: 60px 20px;
@@ -59,10 +59,10 @@ section:nth-child(odd) {
 
 section h2 {
     font-size: 2rem;
-    border-bottom: 3px solid #4e54c8;
+    border-bottom: 3px solid #5a188e; /* Aston purple */
     padding-bottom: 10px;
     margin-bottom: 20px;
-    color: #4e54c8;
+    color: #5a188e; /* Aston purple */
 }
 
 section ul {
@@ -78,18 +78,18 @@ section ul li {
 .social-links a {
     display: inline-block;
     margin: 10px;
-    color: #4e54c8;
+    color: #5a188e; /* Aston purple */
     text-decoration: none;
     font-weight: 600;
     font-size: 1.1rem;
-    border: 2px solid #4e54c8;
+    border: 2px solid #5a188e; /* Aston purple */
     padding: 8px 20px;
     border-radius: 30px;
     transition: all 0.3s ease;
 }
 
 .social-links a:hover {
-    background: #4e54c8;
+    background: #5a188e; /* Aston purple */
     color: #fff;
 }
 
@@ -101,7 +101,7 @@ footer {
     padding: 20px;
     margin-top: 20px;
     font-size: 14px;
-    border-top: 5px solid #4e54c8;
+    border-top: 5px solid #5a188e; /* Aston purple */
 }
 
 footer p {
@@ -116,4 +116,3 @@ footer p {
         opacity: 1;
     }
 }
-/* FUCK */
